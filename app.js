@@ -14,4 +14,4 @@ app.get('/', function(req, res) {
   res.sendFile(path.join(__dirname+'/'));
 });
 
-app.listen(3001);
+app.listen(3000);
