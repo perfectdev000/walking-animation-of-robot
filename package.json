@@ -1,0 +1,16 @@
+{
+  "name": "walking_animation_of_robot",
+  "version": "1.0.0",
+  "description": "Please open Command Line in your project folder.<p>\r #npm install<p>\r #npm install -g nodemon<p>\r #nodemon index.js<p>git",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "three": "^0.134.0"
+  }
+}
